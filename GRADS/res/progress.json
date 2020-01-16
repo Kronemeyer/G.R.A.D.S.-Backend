@@ -1,0 +1,351 @@
+[
+  {
+    "student": {
+      "studentId": 2113445678,
+      "networkId": "mhunt",
+      "firstName": "Michelle",
+      "lastName": "Hunt"
+    },
+    "major": "COMPUTER_INFORMATION_SYSTEMS",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "graduationPercentage": 29.01,
+    "majorGPA": 3.47,
+    "overallGPA": 3.84,
+    "advisor": {
+        "program": "COMPUTER_INFORMATION_SYSTEMS",
+        "firstName": "Matt",
+        "lastName": "Thatcher"
+      },
+      "requirementCheckResults":[
+      {
+            "name":"CIS_CAROLINA_CORE_ARP",
+            "passed":true,
+            "details":{
+               "courses":[
+                  {
+                      "course": {
+                          "name": "Algorithmic Design I",
+                          "id": "CSCE145",
+                          "numCredits": "3"
+                      },
+                      "term": {
+                          "semester": "FALL",
+                          "year": 2017
+                       },
+                       "grade": "B"
+                   },
+                   {
+                       "course": {
+                           "name": "Calculus I",
+                           "id": "MATH141",
+                           "numCredits": "3"
+                        },
+                        "term": {
+                            "semester": "FALL",
+                            "year": 2017
+                        },
+                        "grade": "A"
+                   }
+               ]
+            }
+       },
+      {
+            "name":"CIS_CAROLINA_CORE_SCI",
+            "passed":false,
+            "details":{
+             "courses":[
+            	{
+           	    "course": {
+              		 "name": "Biological Principles I",
+             		 "id": "BIOL101",
+             		 "numCredits": "3"
+           	     },
+            	     "term": {
+              	     	"semester": "FALL",
+                        "year": 2017
+                     },
+                    "grade": "A"
+      		},
+     		{
+           	     "course": {
+              		     "name": "Biological Principles I Laboratory",
+             		     "id": "BIOL101L",
+                             "numCredits": "1"
+                      },
+            	      "term": {
+                          "semester": "FALL",
+                          "year": 2017
+                      },
+                      "grade": "A"
+                 }
+               ],
+               "notes":[
+                   "Missing one from (BIOL102, BIOL102L), (BIOL120, BIOL120L), (BIOL243, BIOL243L),  (BIOL244, BIOL244L), (BIOL270, BIOL270L), (CHEM111, CHEM111L), (CHEM112, CHEM112L), (GEOL215, GEOL215L), (MSCI210, MSCI210L), (MCSI215, MCSI215L), (PHYS201, PHYS201L), (PHYS202, PHYS202L), (PHYS211, PHYS211L), (PHYS212, PHYS212L)"
+               ]
+            }
+         },
+      {
+            "name":"CIS_GEN_ED_MATH",
+            "passed":false,
+            "details":{
+             "courses":[
+            	{
+            	"course": {
+            	  "name": "Discrete Structures",
+           	   "id": "MATH374",
+           	   "numCredits": "3"
+            	},
+            	"term": {
+            	  "semester": "FALL",
+            	  "year": 2018
+            	},
+           	 "grade": "A"
+           	 },
+           	 {
+           	 "course": {
+          	    "name": "Statistical Methods I",
+           	   "id": "STAT515",
+           	   "numCredits": "3"
+           	 },
+            	"term": {
+            	  "semester": "SPRING",
+           	   "year": 2018
+           	 },
+           	 "grade": "A"
+           	 }
+               ],
+               "notes":[
+                   "Missing STAT516"
+               ]
+            }
+         },
+      {
+            "name":"CIS_GEN_ED_LIBARTS",
+            "passed":true,
+            "details":{
+             "courses":[
+ 		{
+           	 "course": {
+          	    "name": "State and Society in the Ancient World",
+          	    "id": "HIST101",
+           	   "numCredits": "3"
+            	},
+           	 "term": {
+          	    "semester": "FALL",
+           	   "year": 2017
+           	 },
+           	 "grade": "A"
+     		 },
+     		 {
+          	  "course": {
+          	    "name": "Dance Appreciation",
+           	   "id": "DANC101",
+           	   "numCredits": "3"
+           	 },
+           	 "term": {
+         	     "semester": "SPRING",
+        	      "year": 2018
+       		  },
+       		  "grade": "B"
+      		},
+      		{
+           	 "course": {
+       		      "name": "The American Criminal Justice System",
+         	      "id": "CRJU101",
+         	     "numCredits": "3"
+            	},
+            	"term": {
+            	 	 "semester": "SPRING",
+             	 	"year": 2018
+         	   },
+            	"grade": "A"
+     		 }
+               ]
+            }
+         },
+	{
+            "name":"CIS_LOWER_DIV_COMPUTING",
+            "passed":false,
+            "details":{
+             "courses":[
+ 			{
+            			"course": {
+              				"name": "Algorithmic Design II",
+              				"id": "CSCE146",
+              				"numCredits": "3"
+            			},
+            			"term": {
+              				"semester": "SPRING",
+              				"year": 2018
+            			},
+            			"grade": "B"
+      			},
+      			{
+            			"course": {
+              				"name": "Computing in the Modern World",
+              				"id": "CSCE190",
+              				"numCredits": "1"
+            			},
+            			"term": {
+              				"semester": "FALL",
+              				"year": 2017
+            			},
+            			"grade": "A"
+      			}
+               ],
+               "notes":[
+                   "Missing CSCE201, CSCE210, CSCE215, CSCE240"
+               ]
+            }
+         },
+	{
+            "name":"CIS_REQUIRED",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing CSCE205, CSCE311, CSCE350, CSCE416, CSCE490, CSCE492, CSCE520, CSCE522"
+               ]
+            }
+         },
+	{
+            "name":"CIS_ELECTIVE",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing 3 credits from CSCE317 and CSCE500-699"
+               ]
+            }
+         },
+	{
+            "name":"CIS_BIM_REQUIRED",
+            "passed":false,
+            "details":{
+             "courses":[
+     		 {
+            		"course": {
+              			"name": "Introduction to Economics",
+              			"id": "ECON224",
+              			"numCredits": "3"
+            		},
+            		"term": {
+              			"semester": "FALL",
+              			"year": 2018
+            		},
+            		"grade": "B"
+      		 }
+               ],
+               "notes":[
+                   "Missing ACCT222, MGMT371, MDSC390, MGSC490, MGSC590"
+               ]
+            }
+         },
+	{
+            "name":"CIS_BIM_ELECTIVE",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing two from ACCT324, ECON311, ECON379, FINA333, IBUS301, MGMT472, MKTG350, MKTG351, MGSC392, MGSC395, MGSC594"
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_CMW",
+            "passed":false,
+            "details":{
+             "courses":[
+     		{
+            		"course": {
+              			"name": "Critical Reading and Composition",
+              			"id": "ENGL101",
+              			"numCredits": "3"
+            		},
+            		"term": {
+              			"semester": "FALL",
+              			"year": 2018
+            		},
+            		"grade": "A"
+      		}
+               ],
+               "notes":[
+                   "Missing ENGL102"
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_GSS",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing 3 hours from ARTH107, FAMS300, GERM280, HIST101, HIST102, HIST103, HIST104, HIST105, HIST106, HIST108, HIST109, HIST111, HIST112, HIST214, SOST302"
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_AIU",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing 3 hours from AFAM201, AFAM255, AFAM366, ANTH101, ANTH102, ANTH204, ANTH210, ANTH211, ANTH212, ANTH213, ANTH244, ANTH320, ANTH366, ANTH371, ANTH381, ANTH518, COLA298, CRJU101, EDEX205, EDUC360X, GEOG103, GEOG121, GEOG210, GEOG221, GEOG223, GEOG224, GEOG225, GEOG226, GEOG228, HRTM280, LASP331, LING101, MUSC210, POLI101, POLI201, PSYC101, RELG101, RELG338, SOCY201, SOCY202, SOCY307, SOCY309, SOCY310, SOCY340, SOCY355, SOCY561, SOWK222, WGST112, WGST113, WGST210, WGST300, WGST381"
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_CMS",
+            "passed":true,
+            "details":{
+             "courses":[
+     		{
+            		 "course": {
+              			"name": "Public Communication",
+              			"id": "SPCH140",
+              			"numCredits": "3"
+            		},
+            		"term": {
+             			 "semester": "FALL",
+              			"year": 2018
+            		},
+            		"grade": "A"
+      		}
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_VSR",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing CSCE390"
+               ]
+            }
+         },
+	{
+            "name":"CAROLINA_CORE_INF",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing 3 hours from ENGL102, LIBR101, SLIS202, SPCH145, STAT112"
+               ]
+            }
+         },
+	{
+            "name":"GEN_ED_ENGL",
+            "passed":false,
+            "details":{
+               "notes":[
+                   "Missing 1 from ENGL462, ENGL463"
+               ]
+            }
+         },
+	{
+            "name":"GRAD_GPA",
+            "passed":true,
+            "details":{
+               "gpa": 3.47
+            }
+         }
+      ]
+   }
+]

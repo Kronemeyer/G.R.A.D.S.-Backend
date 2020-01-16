@@ -1,0 +1,1193 @@
+[
+  {
+    "student": {
+      "studentId": 2113445678,
+      "networkId": "mhunt",
+      "firstName": "Michelle",
+      "lastName": "Hunt"
+    },
+    "major": "COMPUTER_INFORMATION_SYSTEMS",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "advisor": {
+        "program": "COMPUTER_INFORMATION_SYSTEMS",
+        "firstName": "Matt",
+        "lastName": "Thatcher"
+      },
+    "coursesTaken": [
+        {
+            "course": {
+              "name": "Algorithmic Design I",
+              "id": "CSCE145",
+              "numCredits": "4"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "B"
+      },
+      {
+            "course": {
+              "name": "Calculus I",
+              "id": "MATH141",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 500",
+          "id": "CSCE500",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 317",
+          "id": "CSCE317",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Biological Principles I",
+              "id": "BIOL101",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Biological Principles I Laboratory",
+              "id": "BIOL101L",
+              "numCredits": "1"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "State and Society in the Ancient World",
+              "id": "HIST101",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Computing in the Modern World",
+              "id": "CSCE190",
+              "numCredits": "1"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2017
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Dance Appreciation",
+              "id": "DANC101",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2018
+            },
+            "grade": "B"
+      },
+      {
+            "course": {
+              "name": "Statistical Methods I",
+              "id": "STAT515",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2018
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Algorithmic Design II",
+              "id": "CSCE146",
+              "numCredits": "4"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2018
+            },
+            "grade": "B"
+      },
+      {
+            "course": {
+              "name": "The American Criminal Justice System",
+              "id": "CRJU101",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2018
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Introduction to Economics",
+              "id": "ECON224",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2018
+            },
+            "grade": "B"
+      },
+      {
+            "course": {
+              "name": "Critical Reading and Composition",
+              "id": "ENGL101",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2018
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Discrete Structures",
+              "id": "MATH374",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2018
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "Public Communication",
+              "id": "SPCH140",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "FALL",
+              "year": 2018
+            },
+            "grade": "A"
+      },
+      {
+            "course": {
+              "name": "UNIX/Linux Fundamentals",
+              "id": "CSCE215",
+              "numCredits": "1"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2019
+            },
+            "grade": "_"
+      },
+      {
+            "course": {
+              "name": "Rhetoric and Composition",
+              "id": "ENGL102",
+              "numCredits": "3"
+            },
+            "term": {
+              "semester": "SPRING",
+              "year": 2019
+            },
+            "grade": "_"
+      }
+    ],
+    "notes": [
+      "Great student. A++ Would recommend.",
+      "Owes me 20 bucks."
+    ]
+  },
+
+  {
+    "student": {
+      "studentId": 2113445678,
+      "networkId": "ggay",
+      "firstName": "Greg",
+      "lastName": "Gay"
+    },
+    "major": "COMPUTER_SCIENCE",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "advisor": {
+      "program": "COMPUTER_SCIENCE",
+      "firstName": "Matt",
+      "lastName": "Thatcher"
+    },
+    "coursesTaken": [
+      {
+        "course": {
+          "name": "Algorithmic Design I",
+          "id": "CSCE145",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Calculus I",
+          "id": "MATH141",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 500",
+          "id": "CSCE500",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 317",
+          "id": "CSCE317",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biological Principles I",
+          "id": "BIOL101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biological Principles I Laboratory",
+          "id": "BIOL101L",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "State and Society in the Ancient World",
+          "id": "HIST101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computing in the Modern World",
+          "id": "CSCE190",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Dance Appreciation",
+          "id": "DANC101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Statistical Methods I",
+          "id": "STAT515",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Algorithmic Design II",
+          "id": "CSCE146",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "The American Criminal Justice System",
+          "id": "CRJU101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Introduction to Economics",
+          "id": "ECON224",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Critical Reading and Composition",
+          "id": "ENGL101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Discrete Structures",
+          "id": "MATH374",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Public Communication",
+          "id": "SPCH140",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "UNIX/Linux Fundamentals",
+          "id": "CSCE215",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2019
+        },
+        "grade": "_"
+      },
+      {
+        "course": {
+          "name": "Rhetoric and Composition",
+          "id": "ENGL102",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2019
+        },
+        "grade": "_"
+      }
+    ],
+    "notes": [
+      "Great student. A++ Would recommend.",
+      "Owes me 20 bucks."
+    ]
+  },
+
+  {
+    "student": {
+      "studentId": 2113445678,
+      "networkId": "mmario",
+      "firstName": "Mario",
+      "lastName": "Mario"
+    },
+    "major": "COMPUTER_ENGINEERING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "advisor": {
+      "program": "COMPUTER_ENGINEERING",
+      "firstName": "Matt",
+      "lastName": "Thatcher"
+    },
+    "coursesTaken": [
+      {
+        "course": {
+          "name": "Algorithmic Design I",
+          "id": "CSCE145",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Calculus I",
+          "id": "MATH141",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 500",
+          "id": "CSCE500",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 317",
+          "id": "CSCE317",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biological Principles I",
+          "id": "BIOL101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biological Principles I Laboratory",
+          "id": "BIOL101L",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "State and Society in the Ancient World",
+          "id": "HIST101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computing in the Modern World",
+          "id": "CSCE190",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Dance Appreciation",
+          "id": "DANC101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Statistical Methods I",
+          "id": "STAT515",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Algorithmic Design II",
+          "id": "CSCE146",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "The American Criminal Justice System",
+          "id": "CRJU101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Introduction to Economics",
+          "id": "ECON224",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "B"
+      },
+      {
+        "course": {
+          "name": "Critical Reading and Composition",
+          "id": "ENGL101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Discrete Structures",
+          "id": "MATH374",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Public Communication",
+          "id": "SPCH140",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "UNIX/Linux Fundamentals",
+          "id": "CSCE215",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2019
+        },
+        "grade": "_"
+      },
+      {
+        "course": {
+          "name": "Rhetoric and Composition",
+          "id": "ENGL102",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2019
+        },
+        "grade": "_"
+      }
+    ],
+    "notes": [
+      "Great student. A++ Would recommend.",
+      "Owes me 20 bucks."
+    ]
+  },
+
+
+
+
+  {
+    "student": {
+      "studentId": 123456789,
+      "networkId": "cis_perfect_student",
+      "firstName": "Perfect",
+      "lastName": "Student"
+    },
+    "major": "COMPUTER_INFORMATION_SYSTEMS",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "advisor": {
+      "program": "COMPUTER_INFORMATION_SYSTEMS",
+      "firstName": "Matt",
+      "lastName": "Thatcher"
+    },
+    "coursesTaken": [
+
+      {
+        "course": {
+          "name": "Computer Science 145",
+          "id": "CSCE145",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Mathematics 122",
+          "id":"MATH122",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+
+
+      {
+        "course": {
+          "name": "Biology 101",
+          "id": "BIOL101",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biology 102",
+          "id": "BIOL102",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Biology 120",
+          "id": "BIOL120",
+          "numCredits": "4"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+
+
+
+      {
+        "course": {
+          "name": "Mathematics 374",
+          "id": "MATH374",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Statistics 509",
+          "id": "STAT509",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Statistics 515",
+          "id": "STAT515",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+
+
+
+
+      {
+        "course": {
+          "name": "Army 401",
+          "id": "ARMY401",
+          "numCredits": "1"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Army 402",
+          "id": "ARMY402",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Art 101",
+          "id": "ARTE101",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+
+
+
+      {
+        "course": {
+          "name": "Computer Science 146",
+          "id": "CSCE146",
+          "numCredits": "3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+
+
+
+      {
+        "course": {
+          "name": "Computer Science 205",
+          "id":"CSCE205",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 311",
+          "id":"CSCE311",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 350",
+          "id":"CSCE350",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 416",
+          "id":"CSCE416",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 490",
+          "id":"CSCE490",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 492",
+          "id":"CSCE492",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 520",
+          "id":"CSCE520",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 522",
+          "id":"CSCE522",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science 522",
+          "id":"CSCE317",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+
+
+
+
+      {
+        "course": {
+          "name": "Economics",
+          "id":"ECON224",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Accounting",
+          "id":"ACCT222",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Management",
+          "id":"MGMT371",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },{
+        "course": {
+          "name": "Management Science",
+          "id":"MGSC390",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Management Science",
+          "id":"MGSC490",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Management Science",
+          "id":"MGSC590",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },
+
+
+      {
+        "course": {
+          "name": "Accounting",
+          "id":"ACCT324",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },{
+        "course": {
+          "name": "Economics",
+          "id":"ECON311",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+
+
+
+      {
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE146",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },{
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE190",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE201",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },{
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE210",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      },
+      {
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE215",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "SPRING",
+          "year": 2018
+        },
+        "grade": "A"
+      },{
+        "course": {
+          "name": "Computer Science",
+          "id":"CSCE240",
+          "numCredits":"3"
+        },
+        "term": {
+          "semester": "FALL",
+          "year": 2017
+        },
+        "grade": "A"
+      }
+
+    ],
+    "notes": [
+      "Great student. A++ Would recommend.",
+      "Owes me 20 bucks."
+    ]
+  }
+]

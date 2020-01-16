@@ -1,0 +1,177 @@
+[
+  {
+    "name": "CAROLINA_CORE_GFL",
+    "requiredClasses": [
+      {
+        "id": "CHEM111",
+        "numCredits": "4"
+      },
+      {
+        "id": "PHYS211",
+        "numCredits": "4"
+      }
+    ]
+  },
+  {
+    "name": "CPE_CAROLINA_CORE_ARP",
+    "requiredClasses": [
+      {
+        "id": "MATH141",
+        "numCredits": "3"
+      },
+      {
+        "id": "MATH142",
+        "numCredits": "3"
+      }
+    ]
+  },
+  {
+  "name": "CPE_GEN_ED_REQUIRED",
+  "requiredClasses": [
+      {
+        "id": "MATH241",
+        "numCredits": "3"
+      },
+      {
+        "id": "MATH242",
+        "numCredits": "3"
+      },
+      {
+        "id": "MATH344",
+        "numCredits": "1"
+      },
+      {
+        "id": "MATH374",
+        "numCredits": "3"
+      },
+      {
+        "id": "PHYS212",
+        "numCredits": "4"
+      },
+      {
+        "id": "STAT509",
+        "numCredits": "3"
+      }
+    ]
+  },
+  {
+    "name": "CPE_LOWER_DIV_COMPUTING",
+    "requiredClasses": [
+      {
+        "id": "CSCE145",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE146",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE190",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE211",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE212",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE215",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE240",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE274",
+        "numCredits": "3"
+      }
+    ]
+  },
+  {
+    "name": "CPE_REQUIRED",
+    "requiredClasses": [
+      {
+        "id": "CSCE311",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE313",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE317",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE350",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE416",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE490",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE492",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE611",
+        "numCredits": "3"
+      }
+    ]
+  },
+  {
+    "name": "CPE_ELECTIVE",
+    "requiredClasses": [
+      {
+        "id": "CSCE330",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE355",
+        "numCredits": "3"
+      },
+      {
+        "id": "ELCT321",
+        "numCredits": "3"
+      },
+      {
+        "id": "ELCT331",
+        "numCredits": "3"
+      },
+      {
+        "id": "CSCE510-699",
+        "numCredits": "3"
+      }
+    ]
+  },
+  {
+    "name": "CPE_EE",
+    "requiredClasses": [
+      {
+        "id": "ELCT101",
+        "numCredits": "3"
+      },
+      {
+        "id": "ELCT221",
+        "numCredits": "3"
+      },
+      {
+        "id": "ELCT222",
+        "numCredits": "3"
+      },
+      {
+        "id": "ELCT371",
+        "numCredits": "3"
+      }
+    ]
+  }
+]

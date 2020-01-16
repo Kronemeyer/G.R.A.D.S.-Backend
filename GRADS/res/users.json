@@ -1,0 +1,52 @@
+[
+    {
+        "networkId": "mhunt",
+        "firstName": "Michelle",
+        "lastName": "Hunt",
+        "role": "STUDENT",
+        "program": "COMPUTER_INFORMATION_SYSTEMS"
+    },
+    {
+        "networkId": "ggay",
+        "firstName": "Gregory",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "program": "COMPUTER_SCIENCE"
+    },
+    {
+        "networkId": "mmario",
+        "firstName": "Mario",
+        "lastName": "Mario",
+        "role": "STUDENT",
+        "program": "COMPUTER_ENGINEERING"
+    },
+    {
+        "networkId": "rbob",
+        "firstName": "Robert",
+        "lastName": "Bob",
+        "role": "STUDENT",
+        "program": "MATHEMATICS"
+    },
+    {
+        "networkId": "mmatthews",
+        "firstName": "Manton",
+        "lastName": "Matthews",
+        "role": "GRADUATE_PROGRAM_COORDINATOR",
+        "program": "COMPUTER_SCIENCE"
+    },
+    {
+        "networkId": "jsmith",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "GRADUATE_PROGRAM_COORDINATOR",
+        "program": "MATHEMATICS"
+    },
+    {
+        "networkId": "cis_perfect_student",
+        "firstName": "Perfect",
+        "lastName": "Student",
+        "role": "STUDENT",
+        "program": "COMPUTER_INFORMATION_SYSTEMS",
+        "studentId": 123456789
+    }
+]

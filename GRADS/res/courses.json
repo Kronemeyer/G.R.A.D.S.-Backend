@@ -1,0 +1,637 @@
+[
+    {
+        "name": "Introduction to Computer Concepts",
+        "id": "CSCE101",
+        "numCredits": "3"
+    },
+    {
+        "name": "General Applications Programming",
+        "id": "CSCE102",
+        "numCredits": "3"
+    },
+    {
+        "name": "Algorithmic Design I",
+        "id": "CSCE145",
+        "numCredits": "4"
+    },
+    {
+        "name": "Algorithmic Design II",
+        "id": "CSCE146",
+        "numCredits": "4"
+    },
+    {
+        "name": "Computing in the Modern World",
+        "id": "CSCE190",
+        "numCredits": "1"
+    },
+    {
+        "name": "Introduction to Computer Security",
+        "id": "CSCE201",
+        "numCredits": "3"
+    },
+    {
+        "name": "Program Design and Development",
+        "id": "CSCE204",
+        "numCredits": "3"
+    },
+    {
+        "name": "Business Applications Programming",
+        "id": "CSCE205",
+        "numCredits": "3"
+    },
+    {
+        "name": "Scientific Applications Programming",
+        "id": "CSCE206",
+        "numCredits": "3"
+    },
+    {
+        "name": "UNIX Systems Administration",
+        "id": "CSCE207",
+        "numCredits": "3"
+    },
+    {
+        "name": "Special Topics in Computer Programming",
+        "id": "CSCE209",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Hardware Foundations",
+        "id": "CSCE210",
+        "numCredits": "3"
+    },
+    {
+        "name": "Digital Logic Design",
+        "id": "CSCE211",
+        "numCredits": "3"
+    },
+    {
+        "name": "Introduction to Computer Architecture",
+        "id": "CSCE212",
+        "numCredits": "3"
+    },
+    {
+        "name": "UNIX/Linux Fundamentals",
+        "id": "CSCE215",
+        "numCredits": "1"
+    },
+    {
+        "name": "Advanced Programming Techniques",
+        "id": "CSCE240",
+        "numCredits": "3"
+    },
+    {
+        "name": "Client-Server Computing",
+        "id": "CSCE242",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Engineering",
+        "id": "CSCE247",
+        "numCredits": "3"
+    },
+    {
+        "name": "Robotic Applications and Design",
+        "id": "CSCE274",
+        "numCredits": "3"
+    },
+    {
+        "name": "Applied Problem Solving and Programming",
+        "id": "MGSC398",
+        "numCredits": "3"
+    },
+    {
+        "name": "Operating Systems",
+        "id": "CSCE311",
+        "numCredits": "3"
+    },
+    {
+        "name": "Embedded Systems",
+        "id": "CSCE313",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Systems Engineering",
+        "id": "CSCE317",
+        "numCredits": "3"
+    },
+    {
+        "name": "Programming Language Structures",
+        "id": "CSCE330",
+        "numCredits": "3"
+    },
+    {
+        "name": "Data Structures and Algorithms",
+        "id": "CSCE350",
+        "numCredits": "3"
+    },
+    {
+        "name": "Foundations of Computation",
+        "id": "CSCE355",
+        "numCredits": "3"
+    },
+    {
+        "name": "Professional Issues in Computer Science and Engineering",
+        "id": "CSCE390",
+        "numCredits": "1"
+    },
+    {
+        "name": "Mainframe Systems",
+        "id": "CSCE415",
+        "numCredits": "3"
+    },
+    {
+        "name": "Introduction to Computer Networks",
+        "id": "CSCE416",
+        "numCredits": "3"
+    },
+    {
+        "name": "Capstone Computing Project I",
+        "id": "CSCE490",
+        "numCredits": "3"
+    },
+    {
+        "name": "Capstone Computing Project II",
+        "id": "CSCE492",
+        "numCredits": "3"
+    },
+    {
+        "name": "Independent Study",
+        "id": "CSCE498",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Programming and Applications",
+        "id": "CSCE500",
+        "numCredits": "3"
+    },
+    {
+        "name": "System Programming",
+        "id": "CSCE510",
+        "numCredits": "3"
+    },
+    {
+        "name": "System Performance Evaluation",
+        "id": "CSCE512",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Architecture",
+        "id": "CSCE513",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Network Programming",
+        "id": "CSCE515",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Networks",
+        "id": "CSCE516",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Crime and Forensics",
+        "id": "CSCE517",
+        "numCredits": "3"
+    },
+    {
+        "name": "Database System Design",
+        "id": "CSCE520",
+        "numCredits": "3"
+    },
+    {
+        "name": "Information Security Principles",
+        "id": "CSCE522",
+        "numCredits": "3"
+    },
+    {
+        "name": "Service Oriented Computing",
+        "id": "CSCE526",
+        "numCredits": "3"
+    },
+    {
+        "name": "Compiler Construction",
+        "id": "CSCE531",
+        "numCredits": "3"
+    },
+    {
+        "name": "Windows Programming",
+        "id": "CSCE547",
+        "numCredits": "3"
+    },
+    {
+        "name": "Buildibng Secure Software",
+        "id": "CSCE548",
+        "numCredits": "3"
+    },
+    {
+        "name": "Theory of Computation",
+        "id": "CSCE551",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Game Development",
+        "id": "CSCE552",
+        "numCredits": "3"
+    },
+    {
+        "name": "Algorithms in Bioinformatics",
+        "id": "CSCE555",
+        "numCredits": "3"
+    },
+    {
+        "name": "Introduction to Cryptography",
+        "id": "CSCE557",
+        "numCredits": "3"
+    },
+    {
+        "name": "Numerical Analysis",
+        "id": "CSCE561",
+        "numCredits": "3"
+    },
+    {
+        "name": "Systems Simulation",
+        "id": "CSCE563",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computational Science",
+        "id": "CSCE564",
+        "numCredits": "3"
+    },
+    {
+        "name": "Introduction to Computer Graphics",
+        "id": "CSCE565",
+        "numCredits": "3"
+    },
+    {
+        "name": "Parallel Computing",
+        "id": "CSCE569",
+        "numCredits": "3"
+    },
+    {
+        "name": "Critical Interactives",
+        "id": "CSCE571",
+        "numCredits": "3"
+    },
+    {
+        "name": "Human-Computer Interaction",
+        "id": "CSCE572",
+        "numCredits": "3"
+    },
+    {
+        "name": "Robotics",
+        "id": "CSCE574",
+        "numCredits": "3"
+    },
+    {
+        "name": "Text Processing",
+        "id": "CSCE578",
+        "numCredits": "3"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "id": "CSCE580",
+        "numCredits": "3"
+    },
+    {
+        "name": "Bayesian Networks and Decision Graphs",
+        "id": "CSCE582",
+        "numCredits": "3"
+    },
+    {
+        "name": "Big Data Analytics",
+        "id": "CSCE587",
+        "numCredits": "3"
+    },
+    {
+        "name": "Topics in Information Technology",
+        "id": "CSCE590",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Digital Design",
+        "id": "CSCE611",
+        "numCredits": "3"
+    },
+    {
+        "name": "VLSI System Design",
+        "id": "CSCE612",
+        "numCredits": "3"
+    },
+    {
+        "name": "Fundamentals of VLSI Chip Design",
+        "id": "CSCE613",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Operating Systems",
+        "id": "CSCE711",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Computer Architecture",
+        "id": "CSCE713",
+        "numCredits": "3"
+    },
+    {
+        "name": "Network Systems Security",
+        "id": "CSCE715",
+        "numCredits": "3"
+    },
+    {
+        "name": "Design for Reliability",
+        "id": "CSCE716",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer System Performance and Reliability Analysis",
+        "id": "CSCE717",
+        "numCredits": "3"
+    },
+    {
+        "name": "Real-Time Computer Applications",
+        "id": "CSCE718",
+        "numCredits": "3"
+    },
+    {
+        "name": "Security and Privacy for Wireless Networks",
+        "id": "CSCE719",
+        "numCredits": "3"
+    },
+    {
+        "name": "Physical Database Design",
+        "id": "CSCE721",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Database Design",
+        "id": "CSCE723",
+        "numCredits": "3"
+    },
+    {
+        "name": "Information Retrieval: Algorithms and Models",
+        "id": "CSCE725",
+        "numCredits": "3"
+    },
+    {
+        "name": "Information Warfare",
+        "id": "CSCE727",
+        "numCredits": "3"
+    },
+    {
+        "name": "Programming Language Semantics",
+        "id": "CSCE730",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Engineering",
+        "id": "CSCE740",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Process",
+        "id": "CSCE741",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Architectures",
+        "id": "CSCE742",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Requirements",
+        "id": "CSCE743",
+        "numCredits": "3"
+    },
+    {
+        "name": "Object-Oriented Analysis and Design",
+        "id": "CSCE744",
+        "numCredits": "3"
+    },
+    {
+        "name": "Object-Oriented Programming Methods",
+        "id": "CSCE745",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Testing and Quality Assurance",
+        "id": "CSCE747",
+        "numCredits": "3"
+    },
+    {
+        "name": "Analysis of Algorithms",
+        "id": "CSCE750",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computability, Automata, and Formal Languages",
+        "id": "CSCE755",
+        "numCredits": "3"
+    },
+    {
+        "name": "Probabilistic System Analysis",
+        "id": "CSCE758",
+        "numCredits": "3"
+    },
+    {
+        "name": "Numerical Analysis I",
+        "id": "CSCE760",
+        "numCredits": "3"
+    },
+    {
+        "name": "Numerical Analysis II",
+        "id": "CSCE761",
+        "numCredits": "3"
+    },
+    {
+        "name": "Digital Image Processing",
+        "id": "CSCE763",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Graphics System Design",
+        "id": "CSCE765",
+        "numCredits": "3"
+    },
+    {
+        "name": "Scientific Visualization",
+        "id": "CSCE766",
+        "numCredits": "3"
+    },
+    {
+        "name": "Interactive Computer Systems",
+        "id": "CSCE767",
+        "numCredits": "3"
+    },
+    {
+        "name": "Pattern Recognition and Classification",
+        "id": "CSCE768",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computational Structural Biology",
+        "id": "CSCE769",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Processing of Natural Language",
+        "id": "CSCE771",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Speech Processing",
+        "id": "CSCE772",
+        "numCredits": "3"
+    },
+    {
+        "name": "Robotics Systems",
+        "id": "CSCE774",
+        "numCredits": "3"
+    },
+    {
+        "name": "Knowledge Representation",
+        "id": "CSCE780",
+        "numCredits": "3"
+    },
+    {
+        "name": "Knowledge Systems",
+        "id": "CSCE781",
+        "numCredits": "3"
+    },
+    {
+        "name": "Multiagent Systems",
+        "id": "CSCE782",
+        "numCredits": "3"
+    },
+    {
+        "name": "Neural Information Processing",
+        "id": "CSCE784",
+        "numCredits": "3"
+    },
+    {
+        "name": "Introduction to Fuzzy Logic",
+        "id": "CSCE787",
+        "numCredits": "3"
+    },
+    {
+        "name": "Topics in Information Technology",
+        "id": "CSCE790",
+        "numCredits": "3"
+    },
+    {
+        "name": "Seminar in Advances in Computing",
+        "id": "CSCE791",
+        "numCredits": "1"
+    },
+    {
+        "name": "Internship in Software Engineering",
+        "id": "CSCE793",
+        "numCredits": "1"
+    },
+    {
+        "name": "Individual Study and Research",
+        "id": "CSCE797",
+        "numCredits": "1-12"
+    },
+    {
+        "name": "Directed Study and Research",
+        "id": "CSCE798",
+        "numCredits": "1-12"
+    },
+    {
+        "name": "Thesis Preparation",
+        "id": "CSCE799",
+        "numCredits": "1-12"
+    },
+    {
+        "name": "Internet Security",
+        "id": "CSCE813",
+        "numCredits": "3"
+    },
+    {
+        "name": "Distributed Systems Security",
+        "id": "CSCE814",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Communications",
+        "id": "CSCE815",
+        "numCredits": "3"
+    },
+    {
+        "name": "Top-Down VLSI Design",
+        "id": "CSCE818",
+        "numCredits": "3"
+    },
+    {
+        "name": "Custom VLSI Design",
+        "id": "CSCE819",
+        "numCredits": "3"
+    },
+    {
+        "name": "Distributed Database Design",
+        "id": "CSCE821",
+        "numCredits": "3"
+    },
+    {
+        "name": "Data Mining and Warehousing",
+        "id": "CSCE822",
+        "numCredits": "3"
+    },
+    {
+        "name": "Secure Database Systems",
+        "id": "CSCE824",
+        "numCredits": "3"
+    },
+    {
+        "name": "Cooperative Information Systems",
+        "id": "CSCE826",
+        "numCredits": "3"
+    },
+    {
+        "name": "Software Reliability and Safety",
+        "id": "CSCE846",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Analysis of Algorithms",
+        "id": "CSCE850",
+        "numCredits": "3"
+    },
+    {
+        "name": "Formal Methods in Computer Security",
+        "id": "CSCE853",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Computer Graphics",
+        "id": "CSCE865",
+        "numCredits": "3"
+    },
+    {
+        "name": "Computer Vision",
+        "id": "CSCE867",
+        "numCredits": "3"
+    },
+    {
+        "name": "Advanced Pattern Recognition",
+        "id": "CSCE868",
+        "numCredits": "3"
+    },
+    {
+        "name": "Machine Learning",
+        "id": "CSCE883",
+        "numCredits": "3"
+    },
+    {
+        "name": "Ph.D. Seminar",
+        "id": "CSCE895",
+        "numCredits": "3"
+    },
+    {
+        "name": "Dissertation Preparation",
+        "id": "CSCE899",
+        "numCredits": "1-12"
+    }
+]
