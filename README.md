@@ -1,4 +1,4 @@
-# 247
+# G.R.A.D.S. Backend
 GRADS Assignment
 
 Backend development of a graduation percentage calculator. 
